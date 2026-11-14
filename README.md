@@ -117,6 +117,4 @@
 
 </details>
 
----
-
 <sub>Design · Research · AI · Prototyping</sub>
