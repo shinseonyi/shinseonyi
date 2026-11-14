@@ -3,7 +3,7 @@
 **UX/UI · Contents Designer**
 
 다양한 관점을 이해하고, 맥락을 연결해 더 나은 경험을 설계합니다.  
-제품·콘텐츠·웹 디자인을 기반으로 AI와 개발까지 배움과 실행을 확장하고 있습니다.
+제품·콘텐츠·웹 디자인을 기반으로 AI 프로토타이핑까지 배움과 실행을 확장하고 있습니다.
 
 ---
 
@@ -30,6 +30,8 @@
 - 공유 학습 AI Wiki 플랫폼
 
 </details>
+
+---
 
 <details>
 <summary><b>🔵 02 / Healthcare & Life</b><br><sub>동행 · CareLink · BetterFit</sub></summary>
@@ -61,6 +63,8 @@
 
 </details>
 
+---
+
 <details>
 <summary><b>🟢 03 / UX/UI Case Studies</b><br><sub>UserMatch · Vegmil · 오설록</sub></summary>
 
@@ -85,6 +89,8 @@
 - 뷰티포인트 경험 설계
 
 </details>
+
+---
 
 <details>
 <summary><b>🟣 04 / Beauty & Industry Tools</b><br><sub>INCI Scope · Exposition · QFIT</sub></summary>
