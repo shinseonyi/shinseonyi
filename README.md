@@ -13,7 +13,7 @@
 <details>
 <summary><b>🟠 01 / Career & Learning</b><br><sub>역전 커리어 루트 · WANTMORE · xFold</sub></summary>
 <br>
-<table><tr>
+<table width="100%"><tr>
 <td width="33%" valign="top">
 <b>01. 역전 커리어 루트</b><br><br>
 <code>Web App</code>
@@ -46,7 +46,7 @@
 <details>
 <summary><b>🔵 02 / Healthcare & Life</b><br><sub>동행 · CareLink · BetterFit</sub></summary>
 <br>
-<table><tr>
+<table width="100%"><tr>
 <td width="33%" valign="top">
 <b>01. 동행 🏆</b><br><br>
 <code>Web App</code>
@@ -85,7 +85,7 @@
 <details>
 <summary><b>🟢 03 / UX/UI Case Studies</b><br><sub>UserMatch · Vegmil · 오설록</sub></summary>
 <br>
-<table><tr>
+<table width="100%"><tr>
 <td width="33%" valign="top">
 <b>01. UserMatch</b><br><br>
 <code>Responsive Web</code>
@@ -121,7 +121,7 @@
 <details>
 <summary><b>🟣 04 / Beauty & Industry Tools</b><br><sub>INCI Scope · Exposition · QFIT</sub></summary>
 <br>
-<table><tr>
+<table width="100%"><tr>
 <td width="33%" valign="top">
 <b>01. INCI Scope</b><br><br>
 <code>SaaS</code>
