@@ -13,7 +13,7 @@
 <summary><b>🟠 01 / Career & Learning</b><br><sub>역전 커리어 루트 · WANTMORE · xFold</sub></summary>
 <br>
 <table><tr>
-<td width="33%" valign="top"><b>01. 역전 커리어 루트</b><br><br><code>Web App</code><br><br>면접·경험 관리를 기반으로 개인의 커리어 경로를 지속적으로 관리하고, 축적된 기록 루트를 공유하고 회고하는 커뮤니티형 DeskBuddy 웹앱 서비스</td>
+<td width="33%" valign="top"><b>01. 역전 커리어 루트</b><br><br><code>Web App</code><br><br>면접·경험·프로젝트 관리를 기반으로 개인의 커리어 경로를 지속적으로 관리하고, 함께 회고하는 커뮤니티형 DeskBuddy 웹앱 서비스</td>
 <td width="33%" valign="top"><b>02. WANTMORE</b><br><br><code>Responsive Web</code><br><br>따로, 또 같이 — AI 공유 스터디 기록 플랫폼</td>
 <td width="33%" valign="top"><b>03. xFold</b><br><br><code>Responsive Web</code><br><br>AI 및 개인 스터디를 위한 공유 학습 Wiki 플랫폼</td>
 </tr></table>
