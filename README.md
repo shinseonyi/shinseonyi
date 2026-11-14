@@ -4,7 +4,6 @@
 
 다양한 관점을 이해하고, 맥락을 연결해 더 나은 경험을 설계합니다.  
 제품·콘텐츠·웹 디자인을 기반으로 AI 프로토타이핑까지 배움과 실행을 확장하고 있습니다.
-
 <br>
 
 ## Selected Works · 12 Projects
@@ -116,5 +115,7 @@
 - 브랜드 맞춤형 QR 디자인
 
 </details>
+
+---
 
 <sub>Design · Research · AI · Prototyping</sub>
