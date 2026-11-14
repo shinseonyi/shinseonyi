@@ -21,12 +21,12 @@
 
 **02. WANTMORE** · `Responsive Web`
 
-- AI 공유 스터디 기록 플랫폼
-- AI 기반 개인·공동 학습
+- AI 공유 스터디 기록 서비스
+- AI 기반 개인·공동 학습 공유
 
 **03. xFold** · `Responsive Web`
 
-- 공유 학습 AI Wiki 플랫폼
+- 공유 학습 AI Wiki 서비스
 
 </details>
 
