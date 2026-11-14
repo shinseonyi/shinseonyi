@@ -7,10 +7,12 @@
 
 ---
 
-## Selected Works <sub>· 12 Projects</sub>
+## Selected Works · 12 Projects
 
 <details>
-<summary><img src="./assets/career.svg" alt="career projects" width="100%"></summary>
+<summary><b>🟠 01 / Career & Learning</b><br><sub>역전 커리어 루트 · WANTMORE · xFold</sub></summary>
+
+<br>
 
 **역전 커리어 루트**  
 면접·경험 관리를 기반으로 개인의 커리어 경로를 지속적으로 관리하고, 축적된 기록을 통해 다양한 커리어 루트를 탐색하는 DeskBuddy 웹앱 서비스
@@ -24,7 +26,9 @@ AI 및 개인 스터디를 위한 공유 학습 Wiki 플랫폼
 </details>
 
 <details>
-<summary><img src="./assets/health.svg" alt="health projects" width="100%"></summary>
+<summary><b>🔵 02 / Healthcare & Life</b><br><sub>동행 · CareLink · BetterFit</sub></summary>
+
+<br>
 
 **동행** 🏆  
 사후 행정 절차와 필요 서류를 안내하는 서비스  
@@ -40,7 +44,9 @@ AI 및 개인 스터디를 위한 공유 학습 Wiki 플랫폼
 </details>
 
 <details>
-<summary><img src="./assets/uxui.svg" alt="uxui projects" width="100%"></summary>
+<summary><b>🟢 03 / UX/UI Case Studies</b><br><sub>UserMatch · Vegmil · 오설록</sub></summary>
+
+<br>
 
 **UserMatch**  
 사용자 조사 참여자를 위한 1:1 및 다수 매칭 기반 품앗이 서비스
@@ -54,7 +60,9 @@ AI 및 개인 스터디를 위한 공유 학습 Wiki 플랫폼
 </details>
 
 <details>
-<summary><img src="./assets/beauty.svg" alt="beauty projects" width="100%"></summary>
+<summary><b>🟣 04 / Beauty & Industry Tools</b><br><sub>INCI Scope · Exposition · QFIT</sub></summary>
+
+<br>
 
 **INCI Scope**  
 화장품 위험 전성분 검토 및 관리 서비스
