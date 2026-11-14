@@ -43,9 +43,9 @@
 <summary><b>🟣 04 / Beauty & Industry Tools</b><br><sub>INCI Scope · Exposition · QFIT</sub></summary>
 <br>
 <table><tr>
-<td width="33%" valign="top"><b>01. INCI Scope</b><br><br><code>SaaS</code><br><br>화장품 위험 전성분 검토 및 관리 서비스</td>
-<td width="33%" valign="top"><b>02. Exposition</b><br><br><code>SaaS</code><br><br>전시 준비 과정과 팀 협업을 위한 프로젝트 관리 서비스</td>
-<td width="33%" valign="top"><b>03. QFIT</b><br><br><code>SaaS</code><br><br>인쇄 규격과 대량 작업을 지원하는 QR 코드 생성·관리 서비스</td>
+<td width="33%" valign="top"><b>01. INCI Scope</b><br><br><code>SaaS</code><br><br>화장품 위험 전성분 검토 및 관리</td>
+<td width="33%" valign="top"><b>02. Exposition</b><br><br><code>SaaS</code><br><br>전시 준비 및 협업 관리</td>
+<td width="33%" valign="top"><b>03. QFIT</b><br><br><code>SaaS</code><br><br>인쇄 규격 확인 및 대량 QR 코드 생성·관리</td>
 </tr></table>
 </details>
 
