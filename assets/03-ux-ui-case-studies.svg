@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="276" viewBox="0 0 720 276" role="img" aria-label="UX/UI CASE STUDIES">
+<rect width="720" height="276" rx="18" fill="#F8F9FA"/><rect x="1" y="1" width="718" height="274" rx="17" fill="none" stroke="#E4E7EB" stroke-width="2"/>
+<rect x="30" y="30" width="68" height="39" rx="8" fill="#35AFA5"/><text x="64" y="57" text-anchor="middle" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="22" font-weight="700">03</text>
+<text x="115" y="56" fill="#697480" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="1.4">UX/UI CASE STUDIES</text>
+<text x="30" y="133" fill="#20262D" font-family="Arial,sans-serif" font-size="34" font-weight="700">Explore better experiences.</text>
+<path d="M30 172 H690" stroke="#E2E6EA" stroke-width="2"/>
+<text x="30" y="211" fill="#56616B" font-family="Arial,sans-serif" font-size="19">UserMatch  ·  Vegmil  ·  Osulloc</text>
+<circle cx="663" cy="52" r="12" fill="#35AFA5" opacity="0.16"/><path d="M657 50 L663 56 L669 50" fill="none" stroke="#35AFA5" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
