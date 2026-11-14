@@ -51,4 +51,4 @@
 
 ---
 
-<sub>Design · Research · AI · Development</sub>
+<sub>Design · Research · AI · Prototyping</sub>
