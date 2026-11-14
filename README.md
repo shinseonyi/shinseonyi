@@ -20,7 +20,7 @@
 <ul>
 <li>면접·경험·프로젝트 관리</li>
 <li>경험 기반 커리어 루트 관리</li>
-<li>커뮤니티형 DeskBuddy 웹/앱</li>
+<li>기록 기반 회고 모임 생성</li>
 </ul>
 </td>
 <td width="33%" valign="top">
@@ -28,7 +28,7 @@
 <code>Responsive Web</code>
 <ul>
 <li>AI 공유 스터디 기록 플랫폼</li>
-<li>AI 기반 개인·공동 학습 기록</li>
+<li>AI 기반 개인·공동 학습</li>
 </ul>
 </td>
 <td width="33%" valign="top">
@@ -51,19 +51,20 @@
 <b>01. 동행 🏆</b><br><br>
 <code>Web App</code>
 <ul>
-<li>사후 행정 절차 및 필요 서류 안내</li>
+<li>사후 행정 절차 및 서류 안내</li>
 <li>상황별 맞춤 행정 정보 제공</li>
-<li>복잡한 사후 행정 과정의 UX 개선</li>
+<li>복잡한 행정 스케쥴 관리</li>
+<li>디자인 시스템 제작</li>
 </ul>
-<i>goorm DEEP DIVE 합반 프로젝트 대상</i>
+<i>goorm DEEP DIVE 프로젝트 대상</i>
 </td>
 <td width="33%" valign="top">
 <b>02. CareLink 🏆</b><br><br>
 <code>App</code>
 <ul>
-<li>국내 체류 외국인 대상 의료 서비스</li>
+<li>국내 체류 외국인 의료 서비스</li>
 <li>의료 전·중·후 경험 연결</li>
-<li>AI 기반 의료 정보 및 이용 지원</li>
+<li>AI 기반 번역 제공</li>
 </ul>
 <i>해커톤 최우수상</i>
 </td>
@@ -91,7 +92,7 @@
 <ul>
 <li>사용자 조사 참여자 매칭 서비스</li>
 <li>1:1 및 다수 참여자 매칭</li>
-<li>품앗이 기반 리서치 참여 경험 설계</li>
+<li>품앗이 기반 게임 경험 설계</li>
 </ul>
 </td>
 <td width="33%" valign="top">
@@ -109,7 +110,7 @@
 <ul>
 <li>공간·제품 탐색 UX/IA 개선</li>
 <li>온·오프라인 브랜드 경험 연결</li>
-<li>웹 리브랜딩 및 뷰티포인트 경험 설계</li>
+<li>뷰티포인트 경험 설계</li>
 </ul>
 </td>
 </tr></table>
@@ -145,7 +146,7 @@
 <ul>
 <li>인쇄 규격별 QR 코드 생성</li>
 <li>대량 QR 코드 생성 및 관리</li>
-<li>브랜드 맞춤형 QR 디자인 지원</li>
+<li>브랜드 맞춤형 QR 디자인</li>
 </ul>
 </td>
 </tr></table>
